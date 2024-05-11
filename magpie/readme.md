@@ -1,4 +1,4 @@
-# KSMagpie
+# Magpie
 - color : #0080ff
 ## Icon
 <img alt="icon" src="./ksmagpie-icon.svg" height=12> <br>
@@ -9,7 +9,7 @@
 <img alt="icon" src="./ksmagpie-icon.svg" height=224> <br>
 
 ## Badge
-![img](https://img.shields.io/badge/KSMagpie-0080ff.svg?style=for-the-badge&logo=data:image/+xml;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAABU0lEQVQ4ja2UPUsDURBFj4mFClEL3UJtLKNYpRDEQrAxVUoRewv/gpWlv8BGRbCQFIKdH7WFTUCUYCciCoIWEURRIVcGdmUJ+17yiBdesTDv7OzMvct/q0dSO2QJWAYWgQKQB+rANbAP3AHNv2oDOs6wpKr8epa0Kak/YbhgVlBrA0v0Jmk7bsAJ3Gi5ZJ2cSnp0QL8klX3Ap5YLW5LuJa1JajqgNp6+XMYSykCUev4AvoEroGKLdCxvGhhPd1WQdNjh3FyaT2wzAZwBU13a8qAXGAXOgWKXMFPDgHsx7Cc2qc3qApgDVgKBkza7oqRS2pzxyUk6Cpxh3bZ8C9SAz5a3WZxuAjt88GV5JM5s5CrI0IIvyzuBn7vrS8qsJxFZupQ04AOeBMCsdsj3t4kkNToAvUhal5RP33ctZRBYBZaAGWAMMEe8xo6oAsfAe6ALAgX8AobV9k+U72wFAAAAAElFTkSuQmCC)
+![img](https://img.shields.io/badge/Magpie-0080ff.svg?style=for-the-badge&logo=data:image/+xml;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAABU0lEQVQ4ja2UPUsDURBFj4mFClEL3UJtLKNYpRDEQrAxVUoRewv/gpWlv8BGRbCQFIKdH7WFTUCUYCciCoIWEURRIVcGdmUJ+17yiBdesTDv7OzMvct/q0dSO2QJWAYWgQKQB+rANbAP3AHNv2oDOs6wpKr8epa0Kak/YbhgVlBrA0v0Jmk7bsAJ3Gi5ZJ2cSnp0QL8klX3Ap5YLW5LuJa1JajqgNp6+XMYSykCUev4AvoEroGKLdCxvGhhPd1WQdNjh3FyaT2wzAZwBU13a8qAXGAXOgWKXMFPDgHsx7Cc2qc3qApgDVgKBkza7oqRS2pzxyUk6Cpxh3bZ8C9SAz5a3WZxuAjt88GV5JM5s5CrI0IIvyzuBn7vrS8qsJxFZupQ04AOeBMCsdsj3t4kkNToAvUhal5RP33ctZRBYBZaAGWAMMEe8xo6oAsfAe6ALAgX8AobV9k+U72wFAAAAAElFTkSuQmCC)
 
 ## SVG
 ```svg
