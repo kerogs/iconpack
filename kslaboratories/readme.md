@@ -1,4 +1,4 @@
-# KScript
+# KS Laboratories
 - color : #0080ff
 ## Icon
 <img alt="icon" src="./logo_prim_white.svg" height=12> <br>

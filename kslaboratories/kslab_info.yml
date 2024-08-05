@@ -1,0 +1,43 @@
+version: 1.5
+
+colors:
+  default:
+    dark:
+      color: '#000000'
+      background: '#ffffff'
+    light:
+      color: '#ffffff'
+      background: '#000000'
+    grey:
+      color0: '#1f2029' # (darker)
+      color1: '#393B44'
+      color2: '#53555E'
+      color3: '#9498A0'
+      color4: '#D5DAE2'
+      color5: '#EEF4FC' # (lighter)
+    primary:
+      color: '#eef4fc' # Alice Blue
+      background: '#1f2029' # Raisin black
+      primary: '#2a398c'; # Dark Cornflower Blue
+  brandColor:
+    primary_palette:
+      color0: '#1f2029'; # Raisin black (darker/background)
+      color1: '#252D5B'; # Space Cadet
+      color2: '#2A398C'; # Dark Cornflower Blue (primary/accent)
+      color3: '#8C97C4'; # cool gray
+      color4: '#eef4fc'; # Alice Blue (lighter/foreground)
+    other:
+      red: '#FF3668' # Folly
+      green: '#36FFA8' # Aquamarine
+      blue: '#355AFF' # RISD Blue
+      orange: '#FF8336' # Pumpkin
+      purple: '#4E42D4' # Palatinate Blue
+
+brand:
+  short_name: KsLab
+  name: Kerogs Laboratories
+  tagline: 
+    - 
+  url:
+    - website: https://kslabs.fr
+    - github: https://github.com/Kerogs-Laboratories
